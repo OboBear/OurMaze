@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/layout/beginview.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/layout/beginview.xml"
+    },
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/layout/gameactive.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/layout/gameactive.xml"
+    }
+]

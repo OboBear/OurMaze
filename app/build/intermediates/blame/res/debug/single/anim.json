@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/anim/animation.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/anim/animation.xml"
+    },
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/anim/out_leftright.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/anim/out_leftright.xml"
+    },
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/anim/out_rightleft.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/anim/out_rightleft.xml"
+    },
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/anim/in_leftright.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/anim/in_leftright.xml"
+    },
+    {
+        "merged": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/res/merged/debug/anim/in_rightleft.xml",
+        "source": "/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/src/main/res/anim/in_rightleft.xml"
+    }
+]

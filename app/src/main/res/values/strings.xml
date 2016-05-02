@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OurMaze</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="beginview">beginview</string>
+    <string name="newgame">newgame</string>
+    <string name="up">上</string>
+    <string name="left">左</string>
+    <string name="down">下</string>
+    <string name="right">右</string>
+    <string name="save_menu">存档</string>
+    <string name="shop_menu">商店</string>
+    <string name="return_menu">返回</string>
+
+</resources>

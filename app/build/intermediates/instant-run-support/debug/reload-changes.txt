@@ -1,0 +1,3 @@
+CHANGED,/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/game/ourmaze/views/BeginView$animation$override.class
+CHANGED,/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/game/ourmaze/views/BeginView$override.class
+CHANGED,/Users/obo/Desktop/Workspace/android/demos/maze/OurMaze_最终1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
